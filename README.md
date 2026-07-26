@@ -24,33 +24,11 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=memayankk&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=memayankk&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=memayankk&theme=github-dark-blue&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=memayankk&theme=algolia&no-frame=true&row=1&column=6"/>
 
 </p>
 
@@ -99,15 +77,6 @@
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=memayankk&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
 
 # 🤝 Connect With Me
 
